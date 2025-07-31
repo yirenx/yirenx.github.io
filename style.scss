@@ -1,0 +1,55 @@
+/*-- scss:defaults --*/
+
+// Base document colors
+$link-color: #175e59;
+
+// Fonts and font size
+$font-size-root: 90%;
+
+// Tabsets
+$nav-tabs-border-width:  3px;
+$nav-tabs-link-hover-border-color: rgba(31, 127, 121, 0.61);
+$nav-tabs-link-active-color: #1f7f79;
+$nav-tabs-link-active-bg: white;
+
+/*-- scss:rules --*/
+
+// Tabsets
+.panel-tabset .nav-item {
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #eff1f0;
+}
+
+// Figures
+figure {
+    display: inline-block;
+    border: 1px black;
+    margin-top: 30px;
+    margin-left: 30px; /* adjust as needed */
+    margin-right: 30px; /* adjust as needed */
+    margin-top: 5px;
+    margin-bottom: 2px; 
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    text-align: center;
+    font-size: 85%;
+    color: $link-color;
+}
+
+h5 {
+   font-size: 110%;
+   color: $link-color;
+   font-weight: bold;
+   margin-top: 0px;
+   margin-bottom: 5px; 
+}
+
+.v-center-container {
+  display: flex !important;
+  align-items: center;
+  height: 90%;
+}

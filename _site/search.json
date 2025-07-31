@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Federica Zoe Ricci",
+    "section": "",
+    "text": "E-mail\n  \n  \n      Google Scholar\n  \n  \n      GitHub\n  \n\n  \n  \n\nPreserving the spirit of childhood for life means preserving the curiosity of learning, the pleasure to understand, the desire to communicate. (Bruno Munari)\n\nHi there! I am a PhD Candidate in Statistics, working with  Erik Sudderth  (UCI) and  Michele Guindani  (UCLA). I combine Bayesian statistics and machine learning approaches to develop statistical models for structured data and scalable computational methods. I am a fellow of the  HPI Research Center in Machine Learning and Data Science at UCI .\nI am very passionate about statistics and data science education. I work on a variety of teaching and research projects in this area, including on formative feedback to data science assignments, gamification, scientific writing and Bayesian thinking in STEM.\nOutside of academia, I enjoy spending time in nature, playing board games and organizing road trips.\nMy pronouns are she/her and this is how my name is pronounced:"
+  },
+  {
+    "objectID": "research-3.html",
+    "href": "research-3.html",
+    "title": "Research",
+    "section": "",
+    "text": "I contribute to methodological, educational and applied research in statistics and data science.  Below you can learn more about my research interests and projects."
+  },
+  {
+    "objectID": "teaching.html#footnotes",
+    "href": "teaching.html#footnotes",
+    "title": "Teaching",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nLesser, Lawrence M., Dennis K. Pearl, and John J. Weber III. “Assessing fun items’ effectiveness in increasing learning of college introductory statistics students: Results of a randomized experiment.” Journal of Statistics Education 24.2 (2016): 54-62.↩︎\nKuiper, Shonda, and Rodney X. Sturdivant. “Using online game-based simulations to strengthen students’ understanding of practical statistical issues in real-world data analysis.” The American Statistician 69.4 (2015): 354-361.↩︎"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I work on methodological, educational and applied research in statistics and data science.  Learn more about my research interests and projects below.\n\nStatistical methodologyStatistics educationApplied statistics\n\n\nMy methodological research lies at the intersection of Bayesian statistics and machine learning. I have worked on Bayesian nonparametric models and efficient posterior inference for network analysis and probabilistic clustering. I strive to illustrate the components of statistical models by creating visualizations: check out my papers, posters and presentations.\n\nStatistical modeling of sparse networks with overlapping communities\n\n\n\n\n\n\n\n\n\n\n\n\nManuscript - NeurIPS 2022\nPoster - ISBA 2022\nPresentation - International Day of Women in Statistics and Data Science 2022\n\n\n\n\n\nProbabilistic frameworks for temporal biclustering\n\n\n\n\n\n\n\n\n\n\n\n\nPreprint - arXiv\nPoster - Biostatistics Workshop @ UCI 2024\nPresentation - ISBA 2024\n\n\n\n\n\n\nMy research in statistics and data science education aims to support instructors with providing effective qualitative feedback to students, study the benefits of learning statistics with self-collected data and promote teaching of Bayesian methodologies.\n\nAutomated grading workflows for formative feedback\n\n\n\n\n\n\n\n\n\n\n\n\nPackage - GitHub, 2022\nWorkshop - USCOTS 2023\nManuscript - TISE, 2024\n\n\n\n\n\nSee you at the Posterior Line! Learning Bayesian statistics with an online racing game\n\n\n\n\n\n\n\n\n\n\n\n\nMaterial and Video\nPoster - BAYSM 2024\nSlides - eCOTS 2024\n\n\n\n\n\nAdvancing Bayesian Thinking in STEM\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation - JSM 2024\n\n\n\n\n\n\nI enjoy supporting applied scientists with the formulation of their research goals into formal statistical questions, the identification of appropriate statistical methods and the implementation of statistical analyses. I have collaborated with scientists in behavioral nutrition to study how individuals can be nudged towards healthier and sustainable food choices.\n\nBehavioral interventions to promote healthy and sustainable diets\n\n\n\n\n\n\n\n\n\n\n\nImpact of organic and local labels on vegetable consumption\n\nManuscript - Appetite, 2022\n\nFactors contributing to the use of pre-ordering systems\n\nManuscript - Appetite, 2021"
+  },
+  {
+    "objectID": "research-2.html",
+    "href": "research-2.html",
+    "title": "Research",
+    "section": "",
+    "text": "I contribute to methodological, educational and applied research in statistics and data science.  Below you can learn more about my research interests and projects."
+  }
+]
