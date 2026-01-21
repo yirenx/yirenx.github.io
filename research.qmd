@@ -5,8 +5,6 @@ editor:
 ---
 
 In my dissertation, I am interested in exploring methods to adequately address challenges in assessing subgroup effects while maintaining valid inference across the full study population. Additionally, I enjoy working on innovative trial designs and collaborating with scientists on topics in Alzheimer's disease and recruitment science.
-<br>
-Below are my current research interests and projects. 
 
 ::: panel-tabset
 ## Survival Analysis
@@ -15,25 +13,31 @@ Below are my current research interests and projects.
 
 Motivated by challenges in Alzheimer's disease biomarker research, we investigated stratified case-cohort designs under the Cox proportional hazards model to better assess effect modification of biomarker effects in rare subpopulations. We characterized subgroup effects with higher power and greater efficiency while maintaining valid inference in the marginal model, and demonstrated when it is most recommended to perform such sampling.
 
- - Xu Y., Grill J. D., & Gillen D. L. Case-cohort designs to improve efficiency for detecting effect modification. *(Under review)*.
+ - "Novel study designs towards precision medicine in Alzheimer's Disease research". Poster presentation, REMIND Emerging Scientists Symposium. (Irvine, CA, Feb. 2025)
+ 
+ - "Case-cohort designs to improve efficiency for detecting effect modification". Presentation, WNAR of the International Biometric Society. 		  (Fort Collins, CO, Jun. 2024)
+Representation in research: from recruitment to analysis
+•	Presentation, UCI Steckler Center for Responsible, Ethical, and Accessible Technology (CREATE) Briefings. 										Irvine, CA, May 2024
+
+ - Xu Y., Grill J. D., & Gillen D. L. Case-cohort designs to improve efficiency for detecting effect modification. *(In preparation)*.
 
 
 ##### Efficient sampling, estimation, and study design in recurrent events case-cohort designs
 
 To better perform recurrent events case-cohort designs analysis (such as in modelling Alzheimer's disease progression), we first examine two general designs for conducting sampling: “pooled" and "event-specific" sampling. We then derive results to compare the efficiency of these designs and their impact on efficiency and statistical power, especially in later event occurrences.
 
--   Joint Statistical Meetings. Contributed talk “Increasing efficiency in case-cohort designs for recurrent events analysis”. (Nashville, TN, August 2025.)
+-   “Increasing efficiency in case-cohort designs for recurrent events analysis”. Contributed talk, Joint Statistical Meetings. (Nashville, TN, August 2025)
 
 
 ## Clinical Trial Design
 
-##### Bayesian dynamic borrowing in trial design
+##### Bayesian dynamic borrowing to increase power in clinical trial design
 
-During my biotech internship, I performed simulations for planning a trial using Bayesian dynamic borrowing models with survival outcomes. We evaluated power, type I error, and other operating characteristics to inform trial design decisions, including planning an adaptive design with interim analyses.
+During my biotech internship, I performed simulations for leveraging historical trial data using Bayesian dynamic borrowing models with survival outcomes. We evaluated power, type I error, and other operating characteristics to inform trial design decisions, including planning an adaptive design with interim analyses.
 
 ##### Group sequential methods for subgroup analyses
 
-I am interested in developing group sequential methods to examine power and efficiency gains when switching randomization strategies at interim analyses.
+Building on my projects in survival analysis, I am interested in developing group sequential methods to examine power and efficiency gains when switching randomization strategies at interim analyses.
 
 ## Applied Projects
 
