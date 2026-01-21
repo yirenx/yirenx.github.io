@@ -18,7 +18,7 @@ website:
       - text: Research
         href: research.qmd
       - text: CV
-        href: files/navbar/yiren-xu-cv-0725.pdf
+        href: files/navbar/yiren-xu-cv-0126.pdf
         target: _blank          
     right:
       - icon: envelope

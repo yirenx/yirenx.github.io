@@ -13,12 +13,6 @@ In my dissertation, I am interested in exploring methods to adequately address c
 
 Motivated by challenges in Alzheimer's disease biomarker research, we investigated stratified case-cohort designs under the Cox proportional hazards model to better assess effect modification of biomarker effects in rare subpopulations. We characterized subgroup effects with higher power and greater efficiency while maintaining valid inference in the marginal model, and demonstrated when it is most recommended to perform such sampling.
 
- - "Novel study designs towards precision medicine in Alzheimer's Disease research". Poster presentation, REMIND Emerging Scientists Symposium. (Irvine, CA, Feb. 2025)
- 
- - "Case-cohort designs to improve efficiency for detecting effect modification". Presentation, WNAR of the International Biometric Society. 		  (Fort Collins, CO, Jun. 2024)
-Representation in research: from recruitment to analysis
-•	Presentation, UCI Steckler Center for Responsible, Ethical, and Accessible Technology (CREATE) Briefings. 										Irvine, CA, May 2024
-
  - Xu Y., Grill J. D., & Gillen D. L. Case-cohort designs to improve efficiency for detecting effect modification. *(In preparation)*.
 
 
@@ -43,8 +37,14 @@ Building on my projects in survival analysis, I am interested in developing grou
 
 ##### Association of research attitudes and retention in a local registry
 
-Recruitment registries are maximally effective when registrants are retained. Our analyses found that attitudes towards biomedical research, among other factors, were associated with retention behaviors in a local recruitment registry.  These findings may be useful to develop strategies to improve retention in this and other registries.
+Recruitment registries are maximally effective when registrants are retained. Our analyses found that attitudes towards biomedical research, among other factors, were associated with retention behaviors in a local recruitment registry. These findings may be useful to develop strategies to improve retention in this and other registries.
 
  - Witbracht, M., Xu, Y., Morgan, O. B., Salazar, C. R., Hoang, D., Kind, A., Gillen, D. L., & Grill, J. D. (2025). Research Attitudes Questionnaire scores and retention in a recruitment registry. Journal of Alzheimer’s Disease, doi.org/10.1177/13872877241302422. <a href="https://doi.org/10.1177/13872877241302422" target="_blank"> Link </a>.
 
+##### Study partner requirement in Alzheimer’s disease preclinical trials
+
+Study partners (usually a spouse, friend, or adult child) are required in Alzheimer's disease preclinical trials. However, prior research has shown potential differences in study partner types across racial and ethnic groups, which may lead to differences in participation. We investigated attitudes towards elements of the requirement in a diverse sample. 
+
+ - "Attitudes toward the study partner requirement in Alzheimer’s disease preclinical trials among racially and ethnically diverse populations". Poster, Clinical Trials on Alzheimer’s Disease (CTAD). (San Diego, CA, Nov. 2025)
+ 
 :::
