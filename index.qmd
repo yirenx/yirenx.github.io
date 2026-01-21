@@ -24,9 +24,9 @@ editor:
 
 ::: {#yiren-heading}
 
-Hello! I am a PhD candidate in Statistics at the University of California, Irvine, advised by Dr.<a href="https://dgillen.ics.uci.edu" target="_blank">Dan Gillen</a>. I work on topics in survival analysis and clinical trial design. Currently, I am developing methods in performing sampling, estimation, and power analysis in the case-cohort design for modeling recurrent events. 
+Hello! I am a PhD candidate in Statistics at the University of California, Irvine, advised by Dr. <a href="https://dgillen.ics.uci.edu" target="_blank">Dan Gillen</a>. I work on topics in survival analysis and clinical trial design. Currently, I am developing methods in performing sampling, estimation, and power analysis in the case-cohort design for modeling recurrent events. 
 
-I also work with Dr.<a href="https://sites.mind.uci.edu/grill/" target="_blank">Josh Grill</a> and other researchers in the Grillen Lab and the UC Irvine Institute for Memory Impairments and Neurological Disorders (UCI MIND) on projects in recruitment science and Alzheimer's disease research.
+I also work with Dr. <a href="https://sites.mind.uci.edu/grill/" target="_blank">Josh Grill</a> and other researchers in the Grillen Lab and the UC Irvine Institute for Memory Impairments and Neurological Disorders (UCI MIND) on projects in recruitment science and Alzheimer's disease research.
 
 When I'm not working on research, I love to cook, watch movies, and discover new restaurants.
 
