@@ -1,7 +1,7 @@
 ---
 title: 'Yiren (Sam) Xu'
 subtitle:  '<p> PhD Candidate in Statistics <br> University of California, Irvine </p>'
-image: "files/index/yirenxu-profile-vertical.jpeg"
+image: "files/index/yx-profile.jpeg"
 
 about:
   id: yiren-heading
